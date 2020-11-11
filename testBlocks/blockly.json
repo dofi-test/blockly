@@ -1,0 +1,9 @@
+{
+  "types": ["sayhello"],
+  "category": "我的分類",
+  "scripts": [
+    "blocks.js",
+    "javascript.js"
+  ],
+  "toolbox": "toolbox.xml"
+}
