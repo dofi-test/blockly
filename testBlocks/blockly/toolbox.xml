@@ -1,3 +1,5 @@
 <category id="catPlus" COLOUR="190" index="99">
-  <block type="sayhello"></block>
+  <category name="我的積木" COLOUR="190" index="99">
+    <block type="sayhello"></block>
+  </category>
 </category>
