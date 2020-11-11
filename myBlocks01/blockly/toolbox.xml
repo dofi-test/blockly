@@ -1,0 +1,39 @@
+<category id="myBlocks">
+
+  <category id="myCategory1" name="myCategory1">
+    <block type="digitalwrite">
+      <field name="mode">1</field>
+      <value name="pin">
+        <block type="math_number">
+          <field name="NUM">2</field>
+        </block>
+      </value>
+    </block>
+    <block type="digitalread">
+      <value name="pin">
+        <block type="math_number">
+          <field name="NUM">2</field>
+        </block>
+      </value>
+    </block>
+  </category>
+
+  <category id="myCategory2" name="myCategory2">
+    <block type="digitalread">
+      <value name="pin">
+        <block type="math_number">
+          <field name="NUM">2</field>
+        </block>
+      </value>
+    </block>
+    <block type="digitalwrite">
+      <field name="mode">1</field>
+      <value name="pin">
+        <block type="math_number">
+          <field name="NUM">2</field>
+        </block>
+      </value>
+    </block>
+  </category>
+
+</category>
