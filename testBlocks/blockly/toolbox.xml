@@ -1,3 +1,5 @@
-<category id="myCat" name="myCat">
-    <block type="sayhello"></block>
+<category id="catPlus">
+    <category id="myCat" name="myCat">
+        <block type="sayhello"></block>
+    </category>
 </category>
