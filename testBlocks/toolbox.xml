@@ -1,5 +1,5 @@
 <xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
-  <category name="我的分類">
+  <category name="catPlus">
     <block type="sayhello"></block>
   </category>
 </xml>

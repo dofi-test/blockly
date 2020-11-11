@@ -1,6 +1,6 @@
 {
   "types": ["sayhello"],
-  "category": "我的分類",
+  "category": "catPlus",
   "scripts": [
     "blocks.js",
     "javascript.js"
