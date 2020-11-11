@@ -1,4 +1,4 @@
-<category id="catPlus">
+<category id="catPlus" name="catPlus">
    <category id="myCat" name="myCat">
         <block type="sayhello"></block>
    </category>
