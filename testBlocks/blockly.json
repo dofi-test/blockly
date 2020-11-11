@@ -2,8 +2,8 @@
   "types": ["sayhello"],
   "category": "catPlus",
   "scripts": [
-    "blocks.js",
-    "javascript.js"
+    "blockly/blocks.js",
+    "blockly/javascript.js"
   ],
-  "toolbox": "toolbox.xml"
+  "toolbox": "blockly/toolbox.xml"
 }
