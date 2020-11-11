@@ -1,5 +1,5 @@
-<category id="myBlocks">
-        <category id="myCat">
+<category id="myCat">
+        <category id="myBlocks">
                 <block type="sayhello"></block>
         </category>
 </category>
