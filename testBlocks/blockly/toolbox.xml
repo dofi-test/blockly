@@ -1,5 +1,3 @@
 <category id="myBlocks">
-   <category id="myCat" name="myCat">
         <block type="sayhello"></block>
-   </category>
 </category>
