@@ -1,6 +1,6 @@
 {
   "types": ["sayhello"],
-  "category": "myCat",
+  "category": "catPlus",
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"
