@@ -9,11 +9,6 @@
                     </value>
                 </block>
                 <block type="toaandc">
-                    <value name="char">
-                      <block type="text">
-                        <field name="TEXT">a</field>
-                      </block>
-                    </value>
                 </block>
         </category>
 </category>
