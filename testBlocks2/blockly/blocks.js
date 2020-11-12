@@ -20,3 +20,15 @@ Blockly.Blocks['toascii'] = {
  this.setHelpUrl("");
   }
 };
+
+Blockly.Blocks['toaandc'] = {
+  init: function() {
+    this.appendValueInput("char")
+        .setCheck("String")
+        .appendField(new Blockly.FieldDropdown([["轉換 ASCII Code","1"], ["ASCII 轉換成字元","2"]]), "method");
+    this.setOutput(true, null);
+    this.setColour(230);
+ this.setTooltip("");
+ this.setHelpUrl("");
+  }
+};
