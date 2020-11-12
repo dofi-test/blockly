@@ -1,5 +1,5 @@
 {
-  "types": ["sayhello","toascii"],
+  "types": ["sayhello","toascii", "toaandc"],
   "category": "myCat",
   "scripts": [
     "blockly/blocks.js",
