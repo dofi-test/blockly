@@ -24,7 +24,7 @@ Blockly.Blocks['toascii'] = {
 Blockly.Blocks['toaandc'] = {
   init: function() {
     this.appendValueInput("char")
-        .setCheck("String")
+        .setCheck(null)
         .appendField(new Blockly.FieldDropdown([["轉換 ASCII Code","1"], ["ASCII 轉換成字元","2"]]), "method");
     this.setOutput(true, null);
     this.setColour(230);
