@@ -1,8 +1,6 @@
 <category id="myCat">
         <category id="myBlocks">
                 <block type="sayhello"></block>
-        </category>
-        <category id="myBlocks">
                 <block type="toascii"></block>
         </category>
 </category>
