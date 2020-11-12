@@ -4,7 +4,7 @@
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"
-  ],
+  ], 
   "dependencies": [
     "myBlocks.js"
   ],
